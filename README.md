@@ -13,5 +13,9 @@ comando os.system("clear"), altere para os.system("cls") para que o mesmo funcio
 
 Recapitulando:
 os.system("clear") #Para Linux
+
+-------------------------------------------
+
 os.system("cls") #para Windows
 Vou ficar devendo o comando para MAC OS porque eu não sei. =/
+
